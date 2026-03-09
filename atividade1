@@ -1,1 +1,10 @@
-
+let numA = 10;
+let numB = 5;
+let resultadoSoma = numA + numB;
+console.log(`Resultado da soma entre ${numA} e ${numB} é ${resultadoSoma}`);
+let resultadoSub = numA - numB;
+console.log(`Resultado da subtração entre ${numA} e ${numB} é ${resultadoSub}`);
+let resultadoMult = numA * numB;
+console.log(`Resultado da multiplicação entre ${numA} e ${numB} é ${resultadoMult}`);
+let resultadoDiv = numA / numB;
+console.log(`Resultado da divisão entre ${numA} e ${numB} é ${resultadoDiv}`);
